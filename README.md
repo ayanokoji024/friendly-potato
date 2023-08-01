@@ -3,8 +3,8 @@
 ## Assignment 1 ML Lab by Anomitro Das
 
 Construct a machine learning based model for classification using Python for the 
-following UCI datasets:
-UCI datasets (can be loaded from the package itself):
+following UCI datasets (can be loaded from the package itself):
+
   a. Iris plants dataset: https://archive.ics.uci.edu/ml/datasets/Iris/
 
   b. Diabetes dataset: https://www4.stat.ncsu.edu/~boos/var.select/diabetes.html
