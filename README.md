@@ -9,17 +9,14 @@ following UCI datasets (can be loaded from the package itself):
 
   b. Diabetes dataset: https://www4.stat.ncsu.edu/~boos/var.select/diabetes.html
 
-  c. Wisconsin Breast Cancer Dataset: https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Di
-agnostic)
+  c. Wisconsin Breast Cancer Dataset: https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)
 
+### Things to do:
+  - Employ Naive Bayes (Gaussian, Multinomial & Bernoulli) classifier and show classification results (Accuracy, Precision, Recall, F-score, confusion matrix).
 
-1. Employ Naive Bayes (Gaussian, Multinomial & Bernoulli) classifier and show 
-classification results (Accuracy, Precision, Recall, F-score, confusion matrix).
-
-
-2. Use Decision Tree classifier for all the three datasets and show classification 
-results (Accuracy, Precision, Recall, F-score, confusion matrix). Generate the 
-decision tree images for all cases highlighting information like Gini and 
-Entropy.
-Tune the parameters such that the maximum possible performance is achieved 
-(90%<=performance<=100%)
+  - Use Decision Tree classifier for all the three datasets and show classification 
+  results (Accuracy, Precision, Recall, F-score, confusion matrix). Generate the 
+  decision tree images for all cases highlighting information like Gini and 
+  Entropy.
+  Tune the parameters such that the maximum possible performance is achieved 
+  (90%<=performance<=100%)
